@@ -78,3 +78,9 @@ class Program
     }
 }
 ```
+
+## Quick Notes 
+
+1. Use only the functions that you need or want, you do not have to enable everything.
+2. I am not responsible for any damages you may do to other machines.
+3. Use responsibly.
