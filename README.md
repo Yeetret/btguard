@@ -72,7 +72,9 @@ class Program
        
         //Trigger Bluescreen:
         protection.TriggerBSOD();
-         
+
+        //Locks your mouse if true, if false then it unlocks your mouse and your keyboard (REQUIRES YOUR APPLICATION TO HAVE ADMINISTRATOR PERMISSIONS)
+        protection.ToggleMouse(true);
     }
 }
 ```
